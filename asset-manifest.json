@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://github.com/Sappy11/myTextUtils/static/css/main.073c9b0a.css",
+    "main.js": "/https://github.com/Sappy11/myTextUtils/static/js/main.506b2548.js",
+    "static/js/787.719ec76d.chunk.js": "/https://github.com/Sappy11/myTextUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/https://github.com/Sappy11/myTextUtils/index.html",
+    "main.073c9b0a.css.map": "/https://github.com/Sappy11/myTextUtils/static/css/main.073c9b0a.css.map",
+    "main.506b2548.js.map": "/https://github.com/Sappy11/myTextUtils/static/js/main.506b2548.js.map",
+    "787.719ec76d.chunk.js.map": "/https://github.com/Sappy11/myTextUtils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.506b2548.js"
+  ]
+}
